@@ -1,6 +1,6 @@
 # Welcome to My Dropbox
 ***
-(https://main.d1sld4ygnojbd3.amplifyapp.com/)
+(https://main.dl8tr6w791aua.amplifyapp.com/)
 
 ## Task
 The task is to build a serverless web application that uploads file to the cloud using AWS 
@@ -20,7 +20,7 @@ Amplify push
 
 ## Usage
 The application is accessible exclusively to registered users.
-Users can log in to the app by visiting the following link: https://main.d1sld4ygnojbd3.amplifyapp.com/. 
+Users can log in to the app by visiting the following link: https://main.dl8tr6w791aua.amplifyapp.com/
 A registered user can gain access to utilize the app's features that are simiar to Dropbox.
 
 ### The Core Team
